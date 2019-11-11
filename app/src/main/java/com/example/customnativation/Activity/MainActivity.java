@@ -1,4 +1,4 @@
-package com.example.customnativation;
+package com.example.customnativation.Activity;
 
 import android.app.AlertDialog;
 import android.content.DialogInterface;
@@ -14,6 +14,7 @@ import androidx.appcompat.app.AppCompatActivity;
 import androidx.core.view.GravityCompat;
 import androidx.drawerlayout.widget.DrawerLayout;
 
+import com.example.customnativation.R;
 import com.example.customnativation.fragment.AccountFragment;
 import com.example.customnativation.fragment.ActivityFragment;
 import com.example.customnativation.fragment.ArticleFragment;
