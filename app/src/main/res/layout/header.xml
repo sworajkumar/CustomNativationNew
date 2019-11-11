@@ -7,11 +7,13 @@
     android:background="@color/darkgray"
     android:padding="20dp">
     <ImageView
+        android:id="@+id/headerimage"
         android:layout_width="80dp"
         android:layout_height="70dp"
         android:src="@color/white"/>
 
     <TextView
+        android:id="@+id/name"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="Sworaj kumar Das"
@@ -20,6 +22,7 @@
         android:layout_marginTop="5dp"/>
 
     <TextView
+        android:id="@+id/mailid"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="Sworajkumardas@gmail.com"

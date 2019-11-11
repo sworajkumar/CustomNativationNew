@@ -1,5 +1,7 @@
 <resources>
     <string name="app_name">CustomNativation</string>
-    <string name="open">Open</string>
-    <string name="close">Close</string>
+    <string name="open">Open navigation drawer</string>
+    <string name="close">Close navigation drawer</string>
+
+    <string name="hello_blank_fragment">DashBoard Fragment</string>
 </resources>
